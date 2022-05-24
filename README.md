@@ -1,2 +1,2 @@
 # heronsautoshop
-A Code-igniter based website featuring a fictious auto mechanic's shop.
+A Code-igniter based website featuring a fictitious auto mechanic's shop.
